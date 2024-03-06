@@ -19,4 +19,4 @@ This project brings together a modern and intuitive frontend with a full-stack a
 
 ### How to Run
 
-Clone the repository, and run `npm start` in both the frontend and backend directories.
+Clone the repository, and run `npm start` in both the `frontend` and `backend` directories.
